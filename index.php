@@ -1,3 +1,4 @@
 <?php
+echo "juan";
 phpinfo();
 ?>
